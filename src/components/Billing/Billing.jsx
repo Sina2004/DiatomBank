@@ -1,4 +1,4 @@
-import styles, { layout } from "../style";
+import styles, { layout } from "../../style";
 
 const Billing = () => {
   return (

@@ -1,6 +1,6 @@
 import "./index.css";
 import styles from "./style";
-import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from "./components";
+import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from "./components/index";
 
 const App = () => {
   return (

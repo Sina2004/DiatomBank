@@ -1,5 +1,5 @@
-import styles from "../style";
-import GetStarted from "./GetStarted"
+import styles from "../../style";
+import GetStarted from "../GetStarted/GetStarted"
 
 const Hero = () => {
   return (
